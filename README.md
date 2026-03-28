@@ -20,6 +20,10 @@
 
 ---
 
+## ✅ Project grade screenshot
+
+![Project screenshot](readme_asset/Screenshot.png)
+
 ## 📖 What is ft_printf?
 
 **ft_printf** is a 42 curriculum project where you reimplement the C standard `printf` function from scratch using **variadic arguments** (`va_list`, `va_start`, `va_arg`, `va_end`).
